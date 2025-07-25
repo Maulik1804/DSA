@@ -1,3 +1,3 @@
-# DSA Patterns
+# DSA 
 
-DSA Patterns Using C++.
+DSA Using C++.
